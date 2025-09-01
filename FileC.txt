@@ -1,1 +1,1 @@
-A new file added to a new branch - Branch-02
+Making change to file C as part of new branch Default_2
